@@ -21,4 +21,4 @@ About me:
 
 提交看起来有那么点是因为博客搭在GitHub上了
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shinya754&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shinya754&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
