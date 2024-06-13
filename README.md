@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 About me:
+- 人类
 - 计算机硕士在读
 - 啥卵二次元
 - 舞萌痴，2023版本最高rating 15242
