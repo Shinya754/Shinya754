@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-About me:
+关于我:
 - 人类
 - 计算机硕士在读
 - 啥卵二次元
@@ -22,14 +22,15 @@ About me:
 - 引诱壬
   - 舞萌痴，2023版本最高rating 15242
 
+提交看起来有那么点是因为博客搭在GitHub上了
+
+About me:
 - Human
 - Currently pursuing a Master's degree in Computer Science
 - Otaku
   - Overzealous to Yuri
 - Rhythm game player
   - Maimai dx overdose, highest rating in maimai dx 2023 is 15242
-
-提交看起来有那么点是因为博客搭在GitHub上了
 
 Submitting seems to be a bit due to the blog being built on GitHub
 
