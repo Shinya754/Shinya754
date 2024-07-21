@@ -22,6 +22,15 @@ About me:
 - 引诱壬
   - 舞萌痴，2023版本最高rating 15242
 
+- Human
+- Currently pursuing a Master's degree in Computer Science
+- Otaku
+  - Overzealous to Yuri
+- Rhythm game player
+  - Maimai dx overdose, highest rating in maimai dx 2023 is 15242
+
 提交看起来有那么点是因为博客搭在GitHub上了
+
+Submitting seems to be a bit due to the blog being built on GitHub
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shinya754&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
