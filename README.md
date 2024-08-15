@@ -30,7 +30,7 @@ About me:
 - Otaku
   - Overzealous to Yuri
 - Rhythm game player
-  - Maimai dx overdose, highest rating in maimai dx 2023 is 15242
+  - Maimai dx overdose, highest rating in maimai dx 2023(a Chinese exclusive version, contains music up to Maimai DX Festival) is 15242
 
 Submitting seems to be a bit due to the blog being built on GitHub
 
