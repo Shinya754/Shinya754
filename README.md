@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 关于我:
 - 人类
 - 计算机硕士在读
-- 啥卵二次元
+- 二刺螈
   - ⬜🐡
 - 引诱壬
   - 舞萌痴，2023版本最高rating 15242
@@ -30,7 +30,7 @@ About me:
 - Otaku
   - Overzealous to Yuri
 - Rhythm game player
-  - Maimai dx overdose, highest rating in maimai dx 2023(a Chinese exclusive version, contains music up to Maimai DX Festival) is 15242
+  - Maimai dx overdose, highest rating in maimai dx 2023(a Chinese exclusive version, contains charts up to Maimai DX Festival) is 15242
 
 Submitting seems to be a bit due to the blog being built on GitHub
 
