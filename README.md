@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 二刺螈
   - ⬜🐡
 - 引诱壬
-  - 舞萌痴，2025版本最高rating 15647
+  - 舞萌痴，2026版本最高rating 15709
 
 提交看起来有那么点是因为博客搭在GitHub上了
 
@@ -32,7 +32,7 @@ About me:
 - Otaku
   - Overzealous to Yuri
 - Rhythm game player
-  - Maimai dx overdose, highest rating in maimai dx 2025(a Chinese exclusive version, contains charts up to Maimai DX Festival) is 15647
+  - Maimai dx overdose, highest rating in maimai dx 2026(a Chinese exclusive version, contains charts up to Maimai DX Prism+) is 15709
 
 Submitting seems to be a bit due to the blog being built on GitHub
 
